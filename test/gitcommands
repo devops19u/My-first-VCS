@@ -1,5 +1,5 @@
-git config --global user.name "devops19u"
-git config --global user.email rusha.unix@yahoo.com
+$ git config --global user.name "devops19u"
+$ git config --global user.email rusha.unix@yahoo.com
 
 $  git push -u origin master
 Username for 'https://github.com': devops19u
