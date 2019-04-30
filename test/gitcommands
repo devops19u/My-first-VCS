@@ -4,3 +4,8 @@ $ git config --global user.email rusha.unix@yahoo.com
 $  git push -u origin master
 Username for 'https://github.com': devops19u
 Counting objects: 3, done.
+
+git branch -r list all branches
+git checkout -b branch name  it will create new branche
+git push/pull origin branchname  it will push/pull to the sepcific brannch
+git log --grap --one-line   list historical logs commits
